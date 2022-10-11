@@ -1,2 +1,2 @@
-# dmm-sdk-core
-core elements required by both v1 and v2 sdk
+# cs-sdk-core
+core elements required by both flex and apex sdk
